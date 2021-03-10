@@ -1,0 +1,65 @@
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\Repository.dll.config
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\Repository.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\Repository.pdb
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\AutoMapper.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\Data.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\EntityFramework.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\Newtonsoft.Json.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\System.Device.Portable.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\System.Spatial.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\System.ValueTuple.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\Data.pdb
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\AutoMapper.pdb
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\AutoMapper.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\EntityFramework.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\Newtonsoft.Json.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\System.Spatial.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\System.ValueTuple.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\de\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\es\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\fr\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\it\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\ja\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\ko\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\ru\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\obj\Debug\Repository.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Repository\obj\Debug\Repository.pdb
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Repository.dll.config
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Repository.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Repository.pdb
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\AutoMapper.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Data.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\EntityFramework.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\System.Device.Portable.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\System.Spatial.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\System.ValueTuple.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Data.pdb
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Data.dll.config
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\AutoMapper.pdb
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\AutoMapper.xml
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\EntityFramework.xml
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\Newtonsoft.Json.xml
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\System.Spatial.xml
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\System.ValueTuple.xml
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\de\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\es\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\fr\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\it\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\ja\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\ko\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\ru\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+E:\Fyp Project\project FYP\asp.net-core\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\Fyp Project\project FYP\asp.net-core\Repository\obj\Debug\Repository.csproj.CopyComplete
+E:\Fyp Project\project FYP\asp.net-core\Repository\obj\Debug\Repository.dll
+E:\Fyp Project\project FYP\asp.net-core\Repository\obj\Debug\Repository.pdb

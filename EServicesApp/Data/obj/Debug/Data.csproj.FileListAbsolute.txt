@@ -1,0 +1,82 @@
+D:\FYP\BitBucket\Backend\asp.net-core\Data\bin\Debug\Data.dll.config
+D:\FYP\BitBucket\Backend\asp.net-core\Data\bin\Debug\Data.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Data\bin\Debug\Data.pdb
+D:\FYP\BitBucket\Backend\asp.net-core\Data\bin\Debug\EntityFramework.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Data\bin\Debug\EntityFramework.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.Userrelatedmodelsareadded.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.BasicModelsareadded.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.WorkerLocationPropertyAdded.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedStatusPropertytoWorkerModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddPhonePropertyToUser.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedJobDetailModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedJobDetailModel1.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedVisitPropertytoJobModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedLocationModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedLocationModel1.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedLocationPropertyToJobModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedPaymentModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedRatePropertyToJobModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.AddedRatePropertyToWorkerModel.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.Migrations.NotificationDetailModelisadded.resources
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.dll
+D:\FYP\BitBucket\Backend\asp.net-core\Data\obj\Debug\Data.pdb
+E:\Fyp Project\project FYP\asp.net-core\Data\bin\Debug\Data.dll.config
+E:\Fyp Project\project FYP\asp.net-core\Data\bin\Debug\Data.dll
+E:\Fyp Project\project FYP\asp.net-core\Data\bin\Debug\Data.pdb
+E:\Fyp Project\project FYP\asp.net-core\Data\bin\Debug\EntityFramework.dll
+E:\Fyp Project\project FYP\asp.net-core\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fyp Project\project FYP\asp.net-core\Data\bin\Debug\EntityFramework.xml
+E:\Fyp Project\project FYP\asp.net-core\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.Userrelatedmodelsareadded.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.BasicModelsareadded.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.WorkerLocationPropertyAdded.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedStatusPropertytoWorkerModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddPhonePropertyToUser.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedJobDetailModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedJobDetailModel1.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedVisitPropertytoJobModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedLocationModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedLocationModel1.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedLocationPropertyToJobModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedPaymentModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedRatePropertyToJobModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.AddedRatePropertyToWorkerModel.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.Migrations.NotificationDetailModelisadded.resources
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.csproj.GenerateResource.cache
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.csproj.CopyComplete
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.dll
+E:\Fyp Project\project FYP\asp.net-core\Data\obj\Debug\Data.pdb
+C:\Users\Cv\source\repos\EServicesApp\Data\bin\Debug\Data.dll.config
+C:\Users\Cv\source\repos\EServicesApp\Data\bin\Debug\Data.dll
+C:\Users\Cv\source\repos\EServicesApp\Data\bin\Debug\Data.pdb
+C:\Users\Cv\source\repos\EServicesApp\Data\bin\Debug\EntityFramework.dll
+C:\Users\Cv\source\repos\EServicesApp\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cv\source\repos\EServicesApp\Data\bin\Debug\EntityFramework.xml
+C:\Users\Cv\source\repos\EServicesApp\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.Userrelatedmodelsareadded.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.BasicModelsareadded.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.WorkerLocationPropertyAdded.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedStatusPropertytoWorkerModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddPhonePropertyToUser.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedJobDetailModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedJobDetailModel1.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedVisitPropertytoJobModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedLocationModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedLocationModel1.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedLocationPropertyToJobModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedPaymentModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedRatePropertyToJobModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.AddedRatePropertyToWorkerModel.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.Migrations.NotificationDetailModelisadded.resources
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.dll
+C:\Users\Cv\source\repos\EServicesApp\Data\obj\Debug\Data.pdb
