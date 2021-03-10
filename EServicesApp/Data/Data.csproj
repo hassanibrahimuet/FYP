@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F25D5463-8176-4101-964B-8198794AF77E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Data</RootNamespace>
+    <AssemblyName>Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\Context.cs" />
+    <Compile Include="Migrations\201907070818521_User related models are added.cs" />
+    <Compile Include="Migrations\201907070818521_User related models are added.Designer.cs">
+      <DependentUpon>201907070818521_User related models are added.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201907121539569_Basic Models are added.cs" />
+    <Compile Include="Migrations\201907121539569_Basic Models are added.Designer.cs">
+      <DependentUpon>201907121539569_Basic Models are added.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908101143559_WorkerLocationPropertyAdded.cs" />
+    <Compile Include="Migrations\201908101143559_WorkerLocationPropertyAdded.Designer.cs">
+      <DependentUpon>201908101143559_WorkerLocationPropertyAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908122018222_AddedStatusPropertytoWorkerModel.cs" />
+    <Compile Include="Migrations\201908122018222_AddedStatusPropertytoWorkerModel.Designer.cs">
+      <DependentUpon>201908122018222_AddedStatusPropertytoWorkerModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908202031122_AddPhonePropertyToUser.cs" />
+    <Compile Include="Migrations\201908202031122_AddPhonePropertyToUser.Designer.cs">
+      <DependentUpon>201908202031122_AddPhonePropertyToUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908211220513_AddedJobDetailModel.cs" />
+    <Compile Include="Migrations\201908211220513_AddedJobDetailModel.Designer.cs">
+      <DependentUpon>201908211220513_AddedJobDetailModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908211234307_AddedJobDetailModel1.cs" />
+    <Compile Include="Migrations\201908211234307_AddedJobDetailModel1.Designer.cs">
+      <DependentUpon>201908211234307_AddedJobDetailModel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908221437274_AddedVisitPropertytoJobModel.cs" />
+    <Compile Include="Migrations\201908221437274_AddedVisitPropertytoJobModel.Designer.cs">
+      <DependentUpon>201908221437274_AddedVisitPropertytoJobModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908231437461_AddedLocationModel.cs" />
+    <Compile Include="Migrations\201908231437461_AddedLocationModel.Designer.cs">
+      <DependentUpon>201908231437461_AddedLocationModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908231444395_AddedLocationModel1.cs" />
+    <Compile Include="Migrations\201908231444395_AddedLocationModel1.Designer.cs">
+      <DependentUpon>201908231444395_AddedLocationModel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908231451593_AddedLocationPropertyToJobModel.cs" />
+    <Compile Include="Migrations\201908231451593_AddedLocationPropertyToJobModel.Designer.cs">
+      <DependentUpon>201908231451593_AddedLocationPropertyToJobModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908270529404_AddedPaymentModel.cs" />
+    <Compile Include="Migrations\201908270529404_AddedPaymentModel.Designer.cs">
+      <DependentUpon>201908270529404_AddedPaymentModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908271013338_AddedRatePropertyToJobModel.cs" />
+    <Compile Include="Migrations\201908271013338_AddedRatePropertyToJobModel.Designer.cs">
+      <DependentUpon>201908271013338_AddedRatePropertyToJobModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908271054194_AddedRatePropertyToWorkerModel.cs" />
+    <Compile Include="Migrations\201908271054194_AddedRatePropertyToWorkerModel.Designer.cs">
+      <DependentUpon>201908271054194_AddedRatePropertyToWorkerModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909021725349_Notification Detail Model is added.cs" />
+    <Compile Include="Migrations\201909021725349_Notification Detail Model is added.Designer.cs">
+      <DependentUpon>201909021725349_Notification Detail Model is added.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\AddressModels.cs" />
+    <Compile Include="Models\CustomerModels.cs" />
+    <Compile Include="Models\EndUserModels.cs" />
+    <Compile Include="Models\FranchiseModels.cs" />
+    <Compile Include="Models\JobModels.cs" />
+    <Compile Include="Models\NotificationDetail.cs" />
+    <Compile Include="Models\PaymentModels.cs" />
+    <Compile Include="Models\ServicesModels.cs" />
+    <Compile Include="Models\UserModels.cs" />
+    <Compile Include="Models\WorkerModels.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201907070818521_User related models are added.resx">
+      <DependentUpon>201907070818521_User related models are added.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907121539569_Basic Models are added.resx">
+      <DependentUpon>201907121539569_Basic Models are added.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908101143559_WorkerLocationPropertyAdded.resx">
+      <DependentUpon>201908101143559_WorkerLocationPropertyAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908122018222_AddedStatusPropertytoWorkerModel.resx">
+      <DependentUpon>201908122018222_AddedStatusPropertytoWorkerModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908202031122_AddPhonePropertyToUser.resx">
+      <DependentUpon>201908202031122_AddPhonePropertyToUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908211220513_AddedJobDetailModel.resx">
+      <DependentUpon>201908211220513_AddedJobDetailModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908211234307_AddedJobDetailModel1.resx">
+      <DependentUpon>201908211234307_AddedJobDetailModel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908221437274_AddedVisitPropertytoJobModel.resx">
+      <DependentUpon>201908221437274_AddedVisitPropertytoJobModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908231437461_AddedLocationModel.resx">
+      <DependentUpon>201908231437461_AddedLocationModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908231444395_AddedLocationModel1.resx">
+      <DependentUpon>201908231444395_AddedLocationModel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908231451593_AddedLocationPropertyToJobModel.resx">
+      <DependentUpon>201908231451593_AddedLocationPropertyToJobModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908270529404_AddedPaymentModel.resx">
+      <DependentUpon>201908270529404_AddedPaymentModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908271013338_AddedRatePropertyToJobModel.resx">
+      <DependentUpon>201908271013338_AddedRatePropertyToJobModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908271054194_AddedRatePropertyToWorkerModel.resx">
+      <DependentUpon>201908271054194_AddedRatePropertyToWorkerModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909021725349_Notification Detail Model is added.resx">
+      <DependentUpon>201909021725349_Notification Detail Model is added.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
